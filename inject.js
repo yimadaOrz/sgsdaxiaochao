@@ -2235,7 +2235,7 @@ function addFrame() {
         });
 
         header.appendChild(btn);
-        header.appendChild(toTab);
+        //header.appendChild(toTab);
         // 将按钮添加到 header 的右侧
 
         document.body.appendChild(div);
